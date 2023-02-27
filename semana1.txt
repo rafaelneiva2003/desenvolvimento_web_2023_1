@@ -1,0 +1,7 @@
+- Python: https://docs.python.org/3/
+- git: https://git-scm.com/doc
+- VsCode: https://code.visualstudio.com/Docs
+- sqlite browser: https://sqlitebrowser.org/
+- Google Chrome: https://www.google.com/intl/pt-BR/chrome/
+- Microsoft Edge: https://www.microsoft.com/pt-br/edge?form=MA13FJ
+- Mozilla Firefox: https://www.mozilla.org/pt-BR/about/manifesto/
