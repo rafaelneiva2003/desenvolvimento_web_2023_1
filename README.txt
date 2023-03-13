@@ -1,1 +1,1 @@
-falta <div> e <span>
+falta exemplo de <div> e <span> na pasta "semana 3"
